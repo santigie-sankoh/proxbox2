@@ -7,3 +7,7 @@
 [I] Found hostname _gateway for address 10.128.128.128
 
 
+[I] Starting [ spoofing:✔ discovery:✔ sniffer:✔ tcp-proxy:✘ udp-proxy:✘ http-proxy:✘ https-proxy:✘ sslstrip:✘ http-server:✘ dns-server:✘ ] ...
+
+
+[E] Could not determine IPv4 address of 'wlp2s0mon', make sure this interface is active and connected.
