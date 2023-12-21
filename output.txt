@@ -11,3 +11,12 @@
 
 
 [E] Could not determine IPv4 address of 'wlp2s0mon', make sure this interface is active and connected.
+[I] Starting [ spoofing:✔ discovery:✔ sniffer:✔ tcp-proxy:✘ udp-proxy:✘ http-proxy:✘ https-proxy:✘ sslstrip:✘ http-server:✘ dns-server:✘ ] ...
+
+
+[I] [wlp2s0] 10.200.8.22 : 68:A3:C4:EA:13:71 / wlp2s0 ( Liteon Technology )
+[I] [GATEWAY] 10.128.128.128 : AC:17:C8:04:D0:77 ( ??? )
+[I] [DISCOVERY] Precomputing list of possible endpoints, this could take a while depending on your subnet ...
+[I] Found hostname _gateway for address 10.128.128.128
+
+
